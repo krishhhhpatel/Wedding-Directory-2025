@@ -1,0 +1,95 @@
+<div class="footer-white">
+         <div class="container">
+            <div class="row">
+               <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-12">
+                  <div class="footer-white-widget">
+                     <div class="mb20"> <img src="images/logo.png" alt=""></div>
+                     <p class="d-flex mb-2">4998 Elk Creek Road Canton,
+                        <br> GA 30114
+                     </p>
+                     <p class="mb-2 d-flex">Call: +0-800-1234-123</p>
+                     <p class="mb-2 d-flex">Email: <span class="text-default">info@realwed.com</span></p>
+                  </div>
+               </div>
+               <!-- /.footer-widget -->
+               <!-- footer-widget -->
+               <div class="col-xl-2 col-lg-2 col-md-2 col-sm-6 col-12">
+                  <div class="footer-white-widget">
+                     <h3 class="widget-title">
+                        Pages
+                     </h3>
+                     <ul class="listnone">
+                        <li><a href="#">About us</a></li>
+                        <li><a href="#">Contact us</a></li>
+                        <li><a href="#">Faq</a></li>
+                        <li><a href="#">Pricing Plan</a></li>
+                        <li><a href="#">Meet The Team</a></li>
+                     </ul>
+                  </div>
+               </div>
+               <!-- /.footer-widget -->
+               <!-- footer-widget -->
+               <div class="col-xl-2 col-lg-2 col-md-2 col-sm-6 col-12">
+                  <div class="footer-white-widget">
+                     <h3 class="widget-title">
+                        Categories
+                     </h3>
+                     <ul class="listnone">
+                        <li><a href="#">Venue </a></li>
+                        <li><a href="#">Dresses</a></li>
+                        <li><a href="#">Florist</a></li>
+                        <li><a href="#">Cake</a></li>
+                        <li><a href="#">Photographer</a></li>
+                        <li><a href="#">Music</a></li>
+                     </ul>
+                  </div>
+               </div>
+               <!-- /.footer-widget -->
+               <!-- footer-widget -->
+               <div class="col-xl-2 col-lg-2 col-md-3 col-sm-6 col-12">
+                  <div class="footer-white-widget">
+                     <h3 class="widget-title">
+                        Follow us
+                     </h3>
+                     <ul class="listnone">
+                        <li><a href="#"><i class="fab fa-facebook-square"></i> </a></li>
+                        <li><a href="#"><i class="fab fa-twitter-square"></i></a></li>
+                        <li><a href="#"><i class="fab fa-pinterest-square"></i></a></li>
+                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                     </ul>
+                  </div>
+               </div>
+               <!-- /.footer-widget -->
+               <!-- /.footer-widget -->
+               <div class="col-xl-3 col-lg-3 col-md-12 col-sm-6 col-12">
+                  <div class="footer-white-widget newsletter-block">
+                     <h3 class="widget-title ">
+                        Newsletter
+                     </h3>
+                     <p>Subscribe to our newsletter to receive exclusive offers and the latest news on our products and services.</p>
+                     <form>
+                        <div class="form-group">
+                           <label for="email" class="sr-only"></label>
+                           <input type="email" class="form-control" id="email" aria-describedby="email" placeholder="Enter Email Address">
+                        </div>
+                     </form>
+                     <a href="#" class="btn btn-default">Subscribe</a>
+                  </div>
+               </div>
+               <!-- /.footer-widget -->
+            </div>
+         </div>
+         
+      </div>
+         <div class="tiny-footer-white">
+      <div class="container">
+         
+               <div class="row">
+                  <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                     <p>© 2018 RealWed. All Rights Reserved.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      <!-- tiny-footer-section -->
